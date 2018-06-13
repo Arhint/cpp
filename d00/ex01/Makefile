@@ -11,10 +11,10 @@ all: $(NAME)
 
 $(NAME): $(OBJ)
 	@clang++ $(FLG) -o $(NAME) $(OBJ)
+	@echo "\033[0;32mcompile done\033[0m"
 
 %.o: %.cpp
 	@clang++ -c $(FLG) -o $@ $<
-	@echo "\033[0;32mcompile done\033[0m"
 
 clean:
 	@/bin/rm -f $(OBJ)

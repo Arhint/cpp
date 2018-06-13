@@ -61,11 +61,12 @@ void	ss_get_index()
 	std::string		pir;
 
 	std::getline(std::cin, pir);
-	if (pir.length() > 1 || (pir[0] >= '0' && pir[0] <= '9'))
+	while (pir.length() != 1 || pir[0] < '1' || pir[0] >= '9')
 	{
 		std::cout << "Wrong index, try again !" << std::endl;
-		ss_get_index();
+		std::getline(std::cin, pir);
 	}
+
 	std::cout << "GOOD" << std::endl;
 //	ss_print_index(pir);
 }
