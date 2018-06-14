@@ -51,33 +51,34 @@ void	ss_add(Contacts *book)
 //	std::getline(std::cin, book->darkest_secret);
 }
 
-//void	ss_print_index(std::string pir)
-//{
-//	if ()
-//}
+void	ss_contact_print(Contacts book)
+{
+	book.ss_print(book);
+}
 
-void	ss_get_index()
+void	ss_get_index(int j, Contacts *book)
 {
 	std::string		pir;
 
 	std::getline(std::cin, pir);
-	while (pir.length() != 1 || pir[0] < '1' || pir[0] >= '9')
+	int k = atoi(&pir[0]);
+	while (pir.length() != 1 || pir[0] < '1' || pir[0] >= '9' || k >= j)
 	{
 		std::cout << "Wrong index, try again !" << std::endl;
 		std::getline(std::cin, pir);
+		k = atoi(&pir[0]);
 	}
-
-	std::cout << "GOOD" << std::endl;
-//	ss_print_index(pir);
+	ss_contact_print(book[k]);
 }
 
 void	ss_search(Contacts *book, int i)
 {
 	std::string	pir;
+	int			j;
 
 	if (i == 1)
 		std::cout << "There is no contacts!" << std::endl;
-	for (int j = 1; j < i; j++)
+	for (j = 1; j < i; j++)
 	{
 		std::cout << "index: " << std::setw(10);
 		std::cout << j << " | ";
@@ -89,8 +90,7 @@ void	ss_search(Contacts *book, int i)
 		std::cout << book[j].nickname << std::endl;
 	}
 	std::cout << "Choose the contact to see detail: ";
-	ss_get_index();
-//	ss_print_index(pir);
+	ss_get_index(j, book);
 }
 
 int		main()
