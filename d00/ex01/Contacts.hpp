@@ -22,7 +22,7 @@ public:
 	std::string underwear_color;
 	std::string darkest_secret;
 
-	void	ss_print(Contacts book);
+	void	ss_print();
 };
 
 #endif

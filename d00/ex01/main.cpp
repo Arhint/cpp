@@ -51,24 +51,23 @@ void	ss_add(Contacts *book)
 //	std::getline(std::cin, book->darkest_secret);
 }
 
-void	ss_contact_print(Contacts book)
-{
-	book.ss_print(book);
-}
-
 void	ss_get_index(int j, Contacts *book)
 {
 	std::string		pir;
 
 	std::getline(std::cin, pir);
+	if (pir == "EXIT")
+		return ;
 	int k = atoi(&pir[0]);
 	while (pir.length() != 1 || pir[0] < '1' || pir[0] >= '9' || k >= j)
 	{
-		std::cout << "Wrong index, try again !" << std::endl;
+		std::cout << "Wrong index, try again !" << std::endl << ">> ";
 		std::getline(std::cin, pir);
+		if (pir == "EXIT")
+			return ;
 		k = atoi(&pir[0]);
 	}
-	ss_contact_print(book[k]);
+	book[k].ss_print();
 }
 
 void	ss_search(Contacts *book, int i)
@@ -83,11 +82,20 @@ void	ss_search(Contacts *book, int i)
 		std::cout << "index: " << std::setw(10);
 		std::cout << j << " | ";
 		std::cout << "first name: " << std::setw(10);
-		std::cout << book[j].first_name << " | ";
+		if (book[j].first_name.length() <= 9)
+			std::cout << book[j].first_name << " | ";
+		else
+			std::cout << book[j].first_name.substr(0, 9) << "." << " | ";
 		std::cout << "last name: " << std::setw(10);
-		std::cout << book[j].last_name << " | ";
+		if (book[j].last_name.length() <= 9)
+			std::cout << book[j].last_name << " | ";
+		else
+			std::cout << book[j].last_name.substr(0, 9) << "." << " | ";
 		std::cout << "nickname: " << std::setw(10);
-		std::cout << book[j].nickname << std::endl;
+		if (book[j].nickname.length() <= 9)
+			std::cout << book[j].nickname;
+		else
+			std::cout << book[j].nickname.substr(0, 9) << "."  << std::endl;
 	}
 	std::cout << "Choose the contact to see detail: ";
 	ss_get_index(j, book);
@@ -104,17 +112,21 @@ int		main()
 		action = ss_action(ss_start());
 		switch (action)
 		{
-			case 1:
+			case 1: {
 				if (i < 9)
 					ss_add(&book[i++]);
 				else
 					std::cout << "You can add only 8 contacts" << std::endl;
 				break ;
-			case 2:
-				ss_search(book, i);
+			}
+			case 2: {
+				if (i > 1)
+					ss_search(book, i);
+				else
+					std::cout << ">> NO ANY CONTACT <<" << std::endl;
 				break ;
+			}
 			case 3:
-				action = 3;
 				break ;
 			default:
 				std::cout << "WRONG COMMAND" << std::endl;
