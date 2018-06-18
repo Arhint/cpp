@@ -104,6 +104,24 @@
 		<Unit filename="/Users/ssavchen/cpp/d01/ex00/main.cpp">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex01/ex01.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex02/Zombie.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex02/Zombie.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex02/ZombieEvent.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex02/ZombieEvent.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex02/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="/Users/ssavchen/cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

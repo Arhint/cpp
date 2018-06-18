@@ -201,6 +201,102 @@ CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o.provides: CMakeFiles/cpp.dir/d00
 CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o.provides.build: CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o
 
 
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o: ../d01/ex01/ex01.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o -c /Users/ssavchen/cpp/d01/ex01/ex01.cpp
+
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d01/ex01/ex01.cpp > CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.i
+
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d01/ex01/ex01.cpp -o CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.s
+
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.requires
+
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.provides: CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.provides
+
+CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.provides.build: CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o
+
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o: ../d01/ex02/Zombie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o -c /Users/ssavchen/cpp/d01/ex02/Zombie.cpp
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d01/ex02/Zombie.cpp > CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.i
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d01/ex02/Zombie.cpp -o CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.s
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.requires
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.provides: CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.provides
+
+CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.provides.build: CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o
+
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o: ../d01/ex02/ZombieEvent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o -c /Users/ssavchen/cpp/d01/ex02/ZombieEvent.cpp
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d01/ex02/ZombieEvent.cpp > CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.i
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d01/ex02/ZombieEvent.cpp -o CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.s
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.requires
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.provides: CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.provides
+
+CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.provides.build: CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o
+
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.o: ../d01/ex02/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cpp.dir/d01/ex02/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d01/ex02/main.cpp.o -c /Users/ssavchen/cpp/d01/ex02/main.cpp
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d01/ex02/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d01/ex02/main.cpp > CMakeFiles/cpp.dir/d01/ex02/main.cpp.i
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d01/ex02/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d01/ex02/main.cpp -o CMakeFiles/cpp.dir/d01/ex02/main.cpp.s
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.requires
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.provides: CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.provides
+
+CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.provides.build: CMakeFiles/cpp.dir/d01/ex02/main.cpp.o
+
+
 # Object files for target cpp
 cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/d00/ex00/megaphone.cpp.o" \
@@ -208,7 +304,11 @@ cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/d00/ex01/Contacts.cpp.o" \
 "CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o" \
 "CMakeFiles/cpp.dir/d01/ex00/main.cpp.o" \
-"CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o"
+"CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o" \
+"CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o" \
+"CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o" \
+"CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o" \
+"CMakeFiles/cpp.dir/d01/ex02/main.cpp.o"
 
 # External object files for target cpp
 cpp_EXTERNAL_OBJECTS =
@@ -219,9 +319,13 @@ cpp: CMakeFiles/cpp.dir/d00/ex01/Contacts.cpp.o
 cpp: CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o
 cpp: CMakeFiles/cpp.dir/d01/ex00/main.cpp.o
 cpp: CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o
+cpp: CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o
+cpp: CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o
+cpp: CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o
+cpp: CMakeFiles/cpp.dir/d01/ex02/main.cpp.o
 cpp: CMakeFiles/cpp.dir/build.make
 cpp: CMakeFiles/cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -235,6 +339,10 @@ CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d00/ex01/Contacts.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex00/main.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex02/main.cpp.o.requires
 
 .PHONY : CMakeFiles/cpp.dir/requires
 

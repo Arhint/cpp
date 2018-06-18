@@ -285,6 +285,114 @@ d01/ex00/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex00/main.cpp.s
 .PHONY : d01/ex00/main.cpp.s
 
+d01/ex01/ex01.o: d01/ex01/ex01.cpp.o
+
+.PHONY : d01/ex01/ex01.o
+
+# target to build an object file
+d01/ex01/ex01.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o
+.PHONY : d01/ex01/ex01.cpp.o
+
+d01/ex01/ex01.i: d01/ex01/ex01.cpp.i
+
+.PHONY : d01/ex01/ex01.i
+
+# target to preprocess a source file
+d01/ex01/ex01.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.i
+.PHONY : d01/ex01/ex01.cpp.i
+
+d01/ex01/ex01.s: d01/ex01/ex01.cpp.s
+
+.PHONY : d01/ex01/ex01.s
+
+# target to generate assembly for a file
+d01/ex01/ex01.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.s
+.PHONY : d01/ex01/ex01.cpp.s
+
+d01/ex02/Zombie.o: d01/ex02/Zombie.cpp.o
+
+.PHONY : d01/ex02/Zombie.o
+
+# target to build an object file
+d01/ex02/Zombie.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o
+.PHONY : d01/ex02/Zombie.cpp.o
+
+d01/ex02/Zombie.i: d01/ex02/Zombie.cpp.i
+
+.PHONY : d01/ex02/Zombie.i
+
+# target to preprocess a source file
+d01/ex02/Zombie.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.i
+.PHONY : d01/ex02/Zombie.cpp.i
+
+d01/ex02/Zombie.s: d01/ex02/Zombie.cpp.s
+
+.PHONY : d01/ex02/Zombie.s
+
+# target to generate assembly for a file
+d01/ex02/Zombie.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.s
+.PHONY : d01/ex02/Zombie.cpp.s
+
+d01/ex02/ZombieEvent.o: d01/ex02/ZombieEvent.cpp.o
+
+.PHONY : d01/ex02/ZombieEvent.o
+
+# target to build an object file
+d01/ex02/ZombieEvent.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o
+.PHONY : d01/ex02/ZombieEvent.cpp.o
+
+d01/ex02/ZombieEvent.i: d01/ex02/ZombieEvent.cpp.i
+
+.PHONY : d01/ex02/ZombieEvent.i
+
+# target to preprocess a source file
+d01/ex02/ZombieEvent.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.i
+.PHONY : d01/ex02/ZombieEvent.cpp.i
+
+d01/ex02/ZombieEvent.s: d01/ex02/ZombieEvent.cpp.s
+
+.PHONY : d01/ex02/ZombieEvent.s
+
+# target to generate assembly for a file
+d01/ex02/ZombieEvent.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.s
+.PHONY : d01/ex02/ZombieEvent.cpp.s
+
+d01/ex02/main.o: d01/ex02/main.cpp.o
+
+.PHONY : d01/ex02/main.o
+
+# target to build an object file
+d01/ex02/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/main.cpp.o
+.PHONY : d01/ex02/main.cpp.o
+
+d01/ex02/main.i: d01/ex02/main.cpp.i
+
+.PHONY : d01/ex02/main.i
+
+# target to preprocess a source file
+d01/ex02/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/main.cpp.i
+.PHONY : d01/ex02/main.cpp.i
+
+d01/ex02/main.s: d01/ex02/main.cpp.s
+
+.PHONY : d01/ex02/main.s
+
+# target to generate assembly for a file
+d01/ex02/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex02/main.cpp.s
+.PHONY : d01/ex02/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -312,6 +420,18 @@ help:
 	@echo "... d01/ex00/main.o"
 	@echo "... d01/ex00/main.i"
 	@echo "... d01/ex00/main.s"
+	@echo "... d01/ex01/ex01.o"
+	@echo "... d01/ex01/ex01.i"
+	@echo "... d01/ex01/ex01.s"
+	@echo "... d01/ex02/Zombie.o"
+	@echo "... d01/ex02/Zombie.i"
+	@echo "... d01/ex02/Zombie.s"
+	@echo "... d01/ex02/ZombieEvent.o"
+	@echo "... d01/ex02/ZombieEvent.i"
+	@echo "... d01/ex02/ZombieEvent.s"
+	@echo "... d01/ex02/main.o"
+	@echo "... d01/ex02/main.i"
+	@echo "... d01/ex02/main.s"
 .PHONY : help
 
 

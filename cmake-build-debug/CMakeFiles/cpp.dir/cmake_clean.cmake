@@ -5,6 +5,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o"
   "CMakeFiles/cpp.dir/d01/ex00/main.cpp.o"
   "CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o"
+  "CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o"
+  "CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o"
+  "CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o"
+  "CMakeFiles/cpp.dir/d01/ex02/main.cpp.o"
   "cpp.pdb"
   "cpp"
 )

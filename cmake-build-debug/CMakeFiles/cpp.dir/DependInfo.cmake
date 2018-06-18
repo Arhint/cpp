@@ -10,6 +10,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ssavchen/cpp/d00/ex02/Account.class.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o"
   "/Users/ssavchen/cpp/d01/ex00/Pony.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o"
   "/Users/ssavchen/cpp/d01/ex00/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex00/main.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex01/ex01.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex01/ex01.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex02/Zombie.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex02/Zombie.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex02/ZombieEvent.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex02/ZombieEvent.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex02/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex02/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
