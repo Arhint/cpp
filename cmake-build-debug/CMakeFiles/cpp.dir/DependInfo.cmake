@@ -4,11 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/arh/study/cpp/d00/ex00/megaphone.cpp" "/home/arh/study/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex00/megaphone.cpp.o"
-  "/home/arh/study/cpp/d00/ex01/Contacts.cpp" "/home/arh/study/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex01/Contacts.cpp.o"
-  "/home/arh/study/cpp/d00/ex01/main.cpp" "/home/arh/study/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex01/main.cpp.o"
+  "/Users/ssavchen/cpp/d00/ex00/megaphone.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex00/megaphone.cpp.o"
+  "/Users/ssavchen/cpp/d00/ex01/Contacts.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex01/Contacts.cpp.o"
+  "/Users/ssavchen/cpp/d00/ex01/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex01/main.cpp.o"
+  "/Users/ssavchen/cpp/d00/ex02/Account.class.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d00/ex02/Account.class.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex00/Pony.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex00/Pony.cpp.o"
+  "/Users/ssavchen/cpp/d01/ex00/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex00/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
