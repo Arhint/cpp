@@ -13,7 +13,7 @@ private:
 
 public:
 
-	Zombie();
+	Zombie(std::string _nameZombie, std::string _typeZombie);
 	void	announce();
 	~Zombie();
 };

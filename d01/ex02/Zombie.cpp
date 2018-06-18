@@ -1,14 +1,16 @@
 #include "Zombie.hpp"
 
-Zombie::Zombie() {
-	std::cout << "Konstryktor Zombie" << std::endl;
+Zombie::Zombie(std::string _nameZombie, std::string _typeZombie)
+		: _nameZombie(_nameZombie), _typeZombie(_typeZombie) {
+	std::cout << "Zombie " << _nameZombie << " " << _typeZombie << " is alive!";
 }
 
 void	Zombie::announce() {
-	std::cout << _typeZombie << _nameZombie << "Braiiiiiiinnnssss..."
+	std::cout << " It likes Braiiiiiiinnnssss...so much..."
 			  << std::endl;
 }
 
 Zombie::~Zombie() {
-	std::cout << "Destryktor Zombie" << std::endl;
+	std::cout << _nameZombie << _typeZombie << " is dead forever now!"
+			  << std::endl;
 }
