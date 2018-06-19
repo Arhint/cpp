@@ -1,10 +1,13 @@
 #include "ZombieEvent.hpp"
 
 void	ZombieEvent::setZombieType(std::string typeZombie) {
-	this->_typeZombie = typeZombie;
+	_typeEZombie = typeZombie;
 }
 
 Zombie*	ZombieEvent::newZombie(std::string name) {
-	Zombie *zombie = new Zombie(name, this->_typeZombie);
+	Zombie *zombie = new Zombie();
+	zombie->setNameZombie(name);
+	zombie->setTypeZombie(_typeEZombie);
 	return (zombie);
 }
+
