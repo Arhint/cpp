@@ -39,7 +39,6 @@ void	ss_replace(std::string file, std::string s1, std::string s2)
 	fo.close();
 }
 
-
 int		main(int argc, char **argv)
 {
 	if (argc != 4)

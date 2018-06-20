@@ -34,8 +34,8 @@
           <file leaf-file-name="trust.cpp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/d01/ex07/trust.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="720">
-                  <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+                <state relative-caret-position="702">
+                  <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -70,8 +70,8 @@
           <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="108">
-                  <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                <state relative-caret-position="36">
+                  <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -247,12 +247,12 @@
       <workItem from="1529049800017" duration="8073000" />
       <workItem from="1529305419994" duration="24301000" />
       <workItem from="1529393328650" duration="20824000" />
-      <workItem from="1529473102878" duration="10885000" />
+      <workItem from="1529473102878" duration="10951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96019000" />
+    <option name="totallyTimeSpent" value="96085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1110" y="23" width="1400" height="1417" extended-state="0" />
@@ -661,16 +661,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="36">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d01/ex07/trust.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="702">
+          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
