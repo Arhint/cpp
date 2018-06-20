@@ -771,6 +771,60 @@ d02/ex00/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.s
 .PHONY : d02/ex00/main.cpp.s
 
+d02/ex01/Fixed.class.o: d02/ex01/Fixed.class.cpp.o
+
+.PHONY : d02/ex01/Fixed.class.o
+
+# target to build an object file
+d02/ex01/Fixed.class.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o
+.PHONY : d02/ex01/Fixed.class.cpp.o
+
+d02/ex01/Fixed.class.i: d02/ex01/Fixed.class.cpp.i
+
+.PHONY : d02/ex01/Fixed.class.i
+
+# target to preprocess a source file
+d02/ex01/Fixed.class.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.i
+.PHONY : d02/ex01/Fixed.class.cpp.i
+
+d02/ex01/Fixed.class.s: d02/ex01/Fixed.class.cpp.s
+
+.PHONY : d02/ex01/Fixed.class.s
+
+# target to generate assembly for a file
+d02/ex01/Fixed.class.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.s
+.PHONY : d02/ex01/Fixed.class.cpp.s
+
+d02/ex01/main.o: d02/ex01/main.cpp.o
+
+.PHONY : d02/ex01/main.o
+
+# target to build an object file
+d02/ex01/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.o
+.PHONY : d02/ex01/main.cpp.o
+
+d02/ex01/main.i: d02/ex01/main.cpp.i
+
+.PHONY : d02/ex01/main.i
+
+# target to preprocess a source file
+d02/ex01/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.i
+.PHONY : d02/ex01/main.cpp.i
+
+d02/ex01/main.s: d02/ex01/main.cpp.s
+
+.PHONY : d02/ex01/main.s
+
+# target to generate assembly for a file
+d02/ex01/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.s
+.PHONY : d02/ex01/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -852,6 +906,12 @@ help:
 	@echo "... d02/ex00/main.o"
 	@echo "... d02/ex00/main.i"
 	@echo "... d02/ex00/main.s"
+	@echo "... d02/ex01/Fixed.class.o"
+	@echo "... d02/ex01/Fixed.class.i"
+	@echo "... d02/ex01/Fixed.class.s"
+	@echo "... d02/ex01/main.o"
+	@echo "... d02/ex01/main.i"
+	@echo "... d02/ex01/main.s"
 .PHONY : help
 
 

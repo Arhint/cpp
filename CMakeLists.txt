@@ -10,4 +10,5 @@ add_executable(cpp d00/ex00/megaphone.cpp d00/ex00/megaphone.cpp
         d01/ex03/Zombie.cpp d01/ex03/Zombie.hpp d01/ex03/ZombieHorde.cpp d01/ex03/ZombieHorde.hpp d01/ex03/main.cpp d01/ex04/ex04.cpp
         d01/ex05/Brain.cpp d01/ex05/Brain.hpp d01/ex05/Human.cpp d01/ex05/Human.hpp d01/ex05/main.cpp d01/ex06/Weapon.cpp
         d01/ex06/Weapon.hpp d01/ex06/HumanA.cpp d01/ex06/HumanA.hpp d01/ex06/HumanB.cpp d01/ex06/HumanB.hpp d01/ex06/main.cpp
-        d01/ex07/trust.cpp d02/ex00/Fixed.class.cpp d02/ex00/Fixed.class.hpp d02/ex00/main.cpp)
+        d01/ex07/trust.cpp d02/ex00/Fixed.class.cpp d02/ex00/Fixed.class.hpp d02/ex00/main.cpp
+        d02/ex01/Fixed.class.hpp d02/ex01/Fixed.class.cpp d02/ex01/main.cpp)

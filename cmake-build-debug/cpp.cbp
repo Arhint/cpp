@@ -188,6 +188,15 @@
 		<Unit filename="/Users/ssavchen/cpp/d02/ex00/main.cpp">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/ex01/Fixed.class.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/ex01/Fixed.class.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/ex01/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="/Users/ssavchen/cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

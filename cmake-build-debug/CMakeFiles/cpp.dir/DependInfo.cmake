@@ -28,6 +28,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ssavchen/cpp/d01/ex07/trust.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o"
   "/Users/ssavchen/cpp/d02/ex00/Fixed.class.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o"
   "/Users/ssavchen/cpp/d02/ex00/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex00/main.cpp.o"
+  "/Users/ssavchen/cpp/d02/ex01/Fixed.class.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o"
+  "/Users/ssavchen/cpp/d02/ex01/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex01/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
