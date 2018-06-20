@@ -690,6 +690,87 @@ d01/ex06/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex06/main.cpp.s
 .PHONY : d01/ex06/main.cpp.s
 
+d01/ex07/trust.o: d01/ex07/trust.cpp.o
+
+.PHONY : d01/ex07/trust.o
+
+# target to build an object file
+d01/ex07/trust.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o
+.PHONY : d01/ex07/trust.cpp.o
+
+d01/ex07/trust.i: d01/ex07/trust.cpp.i
+
+.PHONY : d01/ex07/trust.i
+
+# target to preprocess a source file
+d01/ex07/trust.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex07/trust.cpp.i
+.PHONY : d01/ex07/trust.cpp.i
+
+d01/ex07/trust.s: d01/ex07/trust.cpp.s
+
+.PHONY : d01/ex07/trust.s
+
+# target to generate assembly for a file
+d01/ex07/trust.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex07/trust.cpp.s
+.PHONY : d01/ex07/trust.cpp.s
+
+d02/test.o: d02/test.cpp.o
+
+.PHONY : d02/test.o
+
+# target to build an object file
+d02/test.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.o
+.PHONY : d02/test.cpp.o
+
+d02/test.i: d02/test.cpp.i
+
+.PHONY : d02/test.i
+
+# target to preprocess a source file
+d02/test.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.i
+.PHONY : d02/test.cpp.i
+
+d02/test.s: d02/test.cpp.s
+
+.PHONY : d02/test.s
+
+# target to generate assembly for a file
+d02/test.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.s
+.PHONY : d02/test.cpp.s
+
+d02/test1.o: d02/test1.cpp.o
+
+.PHONY : d02/test1.o
+
+# target to build an object file
+d02/test1.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.o
+.PHONY : d02/test1.cpp.o
+
+d02/test1.i: d02/test1.cpp.i
+
+.PHONY : d02/test1.i
+
+# target to preprocess a source file
+d02/test1.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.i
+.PHONY : d02/test1.cpp.i
+
+d02/test1.s: d02/test1.cpp.s
+
+.PHONY : d02/test1.s
+
+# target to generate assembly for a file
+d02/test1.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.s
+.PHONY : d02/test1.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -762,6 +843,15 @@ help:
 	@echo "... d01/ex06/main.o"
 	@echo "... d01/ex06/main.i"
 	@echo "... d01/ex06/main.s"
+	@echo "... d01/ex07/trust.o"
+	@echo "... d01/ex07/trust.i"
+	@echo "... d01/ex07/trust.s"
+	@echo "... d02/test.o"
+	@echo "... d02/test.i"
+	@echo "... d02/test.s"
+	@echo "... d02/test1.o"
+	@echo "... d02/test1.i"
+	@echo "... d02/test1.s"
 .PHONY : help
 
 

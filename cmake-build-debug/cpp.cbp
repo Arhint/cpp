@@ -176,6 +176,36 @@
 		<Unit filename="/Users/ssavchen/cpp/d01/ex06/main.cpp">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d01/ex07/trust.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/1111.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/1212.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/121212.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/sdbuJSVD.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/test.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/test.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/test1.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/test1.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d02/www.hpp">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="/Users/ssavchen/cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

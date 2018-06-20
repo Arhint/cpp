@@ -23,5 +23,3 @@ Zombie::~Zombie() {
 			  << " is dead forever now!"
 			  << std::endl;
 }
-
-
