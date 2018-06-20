@@ -21,8 +21,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp.dir/d01/ex06/HumanB.cpp.o"
   "CMakeFiles/cpp.dir/d01/ex06/main.cpp.o"
   "CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o"
-  "CMakeFiles/cpp.dir/d02/test.cpp.o"
-  "CMakeFiles/cpp.dir/d02/test1.cpp.o"
+  "CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o"
+  "CMakeFiles/cpp.dir/d02/ex00/main.cpp.o"
   "cpp.pdb"
   "cpp"
 )

@@ -717,59 +717,59 @@ d01/ex07/trust.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d01/ex07/trust.cpp.s
 .PHONY : d01/ex07/trust.cpp.s
 
-d02/test.o: d02/test.cpp.o
+d02/ex00/Fixed.class.o: d02/ex00/Fixed.class.cpp.o
 
-.PHONY : d02/test.o
-
-# target to build an object file
-d02/test.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.o
-.PHONY : d02/test.cpp.o
-
-d02/test.i: d02/test.cpp.i
-
-.PHONY : d02/test.i
-
-# target to preprocess a source file
-d02/test.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.i
-.PHONY : d02/test.cpp.i
-
-d02/test.s: d02/test.cpp.s
-
-.PHONY : d02/test.s
-
-# target to generate assembly for a file
-d02/test.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.s
-.PHONY : d02/test.cpp.s
-
-d02/test1.o: d02/test1.cpp.o
-
-.PHONY : d02/test1.o
+.PHONY : d02/ex00/Fixed.class.o
 
 # target to build an object file
-d02/test1.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.o
-.PHONY : d02/test1.cpp.o
+d02/ex00/Fixed.class.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o
+.PHONY : d02/ex00/Fixed.class.cpp.o
 
-d02/test1.i: d02/test1.cpp.i
+d02/ex00/Fixed.class.i: d02/ex00/Fixed.class.cpp.i
 
-.PHONY : d02/test1.i
+.PHONY : d02/ex00/Fixed.class.i
 
 # target to preprocess a source file
-d02/test1.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.i
-.PHONY : d02/test1.cpp.i
+d02/ex00/Fixed.class.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.i
+.PHONY : d02/ex00/Fixed.class.cpp.i
 
-d02/test1.s: d02/test1.cpp.s
+d02/ex00/Fixed.class.s: d02/ex00/Fixed.class.cpp.s
 
-.PHONY : d02/test1.s
+.PHONY : d02/ex00/Fixed.class.s
 
 # target to generate assembly for a file
-d02/test1.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.s
-.PHONY : d02/test1.cpp.s
+d02/ex00/Fixed.class.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.s
+.PHONY : d02/ex00/Fixed.class.cpp.s
+
+d02/ex00/main.o: d02/ex00/main.cpp.o
+
+.PHONY : d02/ex00/main.o
+
+# target to build an object file
+d02/ex00/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.o
+.PHONY : d02/ex00/main.cpp.o
+
+d02/ex00/main.i: d02/ex00/main.cpp.i
+
+.PHONY : d02/ex00/main.i
+
+# target to preprocess a source file
+d02/ex00/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.i
+.PHONY : d02/ex00/main.cpp.i
+
+d02/ex00/main.s: d02/ex00/main.cpp.s
+
+.PHONY : d02/ex00/main.s
+
+# target to generate assembly for a file
+d02/ex00/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.s
+.PHONY : d02/ex00/main.cpp.s
 
 # Help Target
 help:
@@ -846,12 +846,12 @@ help:
 	@echo "... d01/ex07/trust.o"
 	@echo "... d01/ex07/trust.i"
 	@echo "... d01/ex07/trust.s"
-	@echo "... d02/test.o"
-	@echo "... d02/test.i"
-	@echo "... d02/test.s"
-	@echo "... d02/test1.o"
-	@echo "... d02/test1.i"
-	@echo "... d02/test1.s"
+	@echo "... d02/ex00/Fixed.class.o"
+	@echo "... d02/ex00/Fixed.class.i"
+	@echo "... d02/ex00/Fixed.class.s"
+	@echo "... d02/ex00/main.o"
+	@echo "... d02/ex00/main.i"
+	@echo "... d02/ex00/main.s"
 .PHONY : help
 
 

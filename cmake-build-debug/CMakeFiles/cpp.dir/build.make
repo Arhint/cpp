@@ -585,52 +585,52 @@ CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o.provides: CMakeFiles/cpp.dir/d01/ex07/tr
 CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o.provides.build: CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o
 
 
-CMakeFiles/cpp.dir/d02/test.cpp.o: CMakeFiles/cpp.dir/flags.make
-CMakeFiles/cpp.dir/d02/test.cpp.o: ../d02/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/cpp.dir/d02/test.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d02/test.cpp.o -c /Users/ssavchen/cpp/d02/test.cpp
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: ../d02/ex00/Fixed.class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o -c /Users/ssavchen/cpp/d02/ex00/Fixed.class.cpp
 
-CMakeFiles/cpp.dir/d02/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d02/test.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d02/test.cpp > CMakeFiles/cpp.dir/d02/test.cpp.i
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d02/ex00/Fixed.class.cpp > CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.i
 
-CMakeFiles/cpp.dir/d02/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d02/test.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d02/test.cpp -o CMakeFiles/cpp.dir/d02/test.cpp.s
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d02/ex00/Fixed.class.cpp -o CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.s
 
-CMakeFiles/cpp.dir/d02/test.cpp.o.requires:
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpp.dir/d02/test.cpp.o.requires
+.PHONY : CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.requires
 
-CMakeFiles/cpp.dir/d02/test.cpp.o.provides: CMakeFiles/cpp.dir/d02/test.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp.dir/d02/test.cpp.o.provides
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.provides: CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.provides
 
-CMakeFiles/cpp.dir/d02/test.cpp.o.provides.build: CMakeFiles/cpp.dir/d02/test.cpp.o
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.provides.build: CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o
 
 
-CMakeFiles/cpp.dir/d02/test1.cpp.o: CMakeFiles/cpp.dir/flags.make
-CMakeFiles/cpp.dir/d02/test1.cpp.o: ../d02/test1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/cpp.dir/d02/test1.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d02/test1.cpp.o -c /Users/ssavchen/cpp/d02/test1.cpp
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: ../d02/ex00/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/cpp.dir/d02/ex00/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d02/ex00/main.cpp.o -c /Users/ssavchen/cpp/d02/ex00/main.cpp
 
-CMakeFiles/cpp.dir/d02/test1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d02/test1.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d02/test1.cpp > CMakeFiles/cpp.dir/d02/test1.cpp.i
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d02/ex00/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d02/ex00/main.cpp > CMakeFiles/cpp.dir/d02/ex00/main.cpp.i
 
-CMakeFiles/cpp.dir/d02/test1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d02/test1.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d02/test1.cpp -o CMakeFiles/cpp.dir/d02/test1.cpp.s
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d02/ex00/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d02/ex00/main.cpp -o CMakeFiles/cpp.dir/d02/ex00/main.cpp.s
 
-CMakeFiles/cpp.dir/d02/test1.cpp.o.requires:
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpp.dir/d02/test1.cpp.o.requires
+.PHONY : CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.requires
 
-CMakeFiles/cpp.dir/d02/test1.cpp.o.provides: CMakeFiles/cpp.dir/d02/test1.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/test1.cpp.o.provides.build
-.PHONY : CMakeFiles/cpp.dir/d02/test1.cpp.o.provides
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.provides: CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.provides
 
-CMakeFiles/cpp.dir/d02/test1.cpp.o.provides.build: CMakeFiles/cpp.dir/d02/test1.cpp.o
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.provides.build: CMakeFiles/cpp.dir/d02/ex00/main.cpp.o
 
 
 # Object files for target cpp
@@ -657,8 +657,8 @@ cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/d01/ex06/HumanB.cpp.o" \
 "CMakeFiles/cpp.dir/d01/ex06/main.cpp.o" \
 "CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o" \
-"CMakeFiles/cpp.dir/d02/test.cpp.o" \
-"CMakeFiles/cpp.dir/d02/test1.cpp.o"
+"CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o" \
+"CMakeFiles/cpp.dir/d02/ex00/main.cpp.o"
 
 # External object files for target cpp
 cpp_EXTERNAL_OBJECTS =
@@ -685,8 +685,8 @@ cpp: CMakeFiles/cpp.dir/d01/ex06/HumanA.cpp.o
 cpp: CMakeFiles/cpp.dir/d01/ex06/HumanB.cpp.o
 cpp: CMakeFiles/cpp.dir/d01/ex06/main.cpp.o
 cpp: CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o
-cpp: CMakeFiles/cpp.dir/d02/test.cpp.o
-cpp: CMakeFiles/cpp.dir/d02/test1.cpp.o
+cpp: CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o
+cpp: CMakeFiles/cpp.dir/d02/ex00/main.cpp.o
 cpp: CMakeFiles/cpp.dir/build.make
 cpp: CMakeFiles/cpp.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable cpp"
@@ -719,8 +719,8 @@ CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex06/HumanA.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex06/HumanB.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex06/main.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o.requires
-CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/test.cpp.o.requires
-CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/test1.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/ex00/main.cpp.o.requires
 
 .PHONY : CMakeFiles/cpp.dir/requires
 

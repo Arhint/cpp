@@ -26,8 +26,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ssavchen/cpp/d01/ex06/Weapon.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex06/Weapon.cpp.o"
   "/Users/ssavchen/cpp/d01/ex06/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex06/main.cpp.o"
   "/Users/ssavchen/cpp/d01/ex07/trust.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o"
-  "/Users/ssavchen/cpp/d02/test.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/test.cpp.o"
-  "/Users/ssavchen/cpp/d02/test1.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/test1.cpp.o"
+  "/Users/ssavchen/cpp/d02/ex00/Fixed.class.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o"
+  "/Users/ssavchen/cpp/d02/ex00/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d02/ex00/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
