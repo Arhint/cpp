@@ -73,9 +73,21 @@ CMakeFiles/cpp.dir/d01/ex06/main.cpp.o: ../d01/ex06/main.cpp
 
 CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o: ../d01/ex07/trust.cpp
 
-CMakeFiles/cpp.dir/d02/test.cpp.o: ../d02/test.cpp
-CMakeFiles/cpp.dir/d02/test.cpp.o: ../d02/test.hpp
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: ../d02/ex00/Fixed.class.cpp
+CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: ../d02/ex00/Fixed.class.hpp
 
-CMakeFiles/cpp.dir/d02/test1.cpp.o: ../d02/test1.cpp
-CMakeFiles/cpp.dir/d02/test1.cpp.o: ../d02/test1.hpp
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: ../d02/ex00/Fixed.class.hpp
+CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: ../d02/ex00/main.cpp
+
+CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o: ../d02/ex01/Fixed.class.cpp
+CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o: ../d02/ex01/Fixed.class.hpp
+
+CMakeFiles/cpp.dir/d02/ex01/main.cpp.o: ../d02/ex01/Fixed.class.hpp
+CMakeFiles/cpp.dir/d02/ex01/main.cpp.o: ../d02/ex01/main.cpp
+
+CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o: ../d02/ex02/Fixed.class.cpp
+CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o: ../d02/ex02/Fixed.class.hpp
+
+CMakeFiles/cpp.dir/d02/ex02/main.cpp.o: ../d02/ex02/Fixed.class.hpp
+CMakeFiles/cpp.dir/d02/ex02/main.cpp.o: ../d02/ex02/main.cpp
 

@@ -744,33 +744,6 @@ d02/ex00/Fixed.class.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.s
 .PHONY : d02/ex00/Fixed.class.cpp.s
 
-d02/ex00/main.o: d02/ex00/main.cpp.o
-
-.PHONY : d02/ex00/main.o
-
-# target to build an object file
-d02/ex00/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.o
-.PHONY : d02/ex00/main.cpp.o
-
-d02/ex00/main.i: d02/ex00/main.cpp.i
-
-.PHONY : d02/ex00/main.i
-
-# target to preprocess a source file
-d02/ex00/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.i
-.PHONY : d02/ex00/main.cpp.i
-
-d02/ex00/main.s: d02/ex00/main.cpp.s
-
-.PHONY : d02/ex00/main.s
-
-# target to generate assembly for a file
-d02/ex00/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex00/main.cpp.s
-.PHONY : d02/ex00/main.cpp.s
-
 d02/ex01/Fixed.class.o: d02/ex01/Fixed.class.cpp.o
 
 .PHONY : d02/ex01/Fixed.class.o
@@ -798,32 +771,86 @@ d02/ex01/Fixed.class.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.s
 .PHONY : d02/ex01/Fixed.class.cpp.s
 
-d02/ex01/main.o: d02/ex01/main.cpp.o
+d02/ex02/Fixed.class.o: d02/ex02/Fixed.class.cpp.o
 
-.PHONY : d02/ex01/main.o
+.PHONY : d02/ex02/Fixed.class.o
 
 # target to build an object file
-d02/ex01/main.cpp.o:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.o
-.PHONY : d02/ex01/main.cpp.o
+d02/ex02/Fixed.class.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o
+.PHONY : d02/ex02/Fixed.class.cpp.o
 
-d02/ex01/main.i: d02/ex01/main.cpp.i
+d02/ex02/Fixed.class.i: d02/ex02/Fixed.class.cpp.i
 
-.PHONY : d02/ex01/main.i
+.PHONY : d02/ex02/Fixed.class.i
 
 # target to preprocess a source file
-d02/ex01/main.cpp.i:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.i
-.PHONY : d02/ex01/main.cpp.i
+d02/ex02/Fixed.class.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.i
+.PHONY : d02/ex02/Fixed.class.cpp.i
 
-d02/ex01/main.s: d02/ex01/main.cpp.s
+d02/ex02/Fixed.class.s: d02/ex02/Fixed.class.cpp.s
 
-.PHONY : d02/ex01/main.s
+.PHONY : d02/ex02/Fixed.class.s
 
 # target to generate assembly for a file
-d02/ex01/main.cpp.s:
-	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex01/main.cpp.s
-.PHONY : d02/ex01/main.cpp.s
+d02/ex02/Fixed.class.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.s
+.PHONY : d02/ex02/Fixed.class.cpp.s
+
+d03/ex00/FragTrap.o: d03/ex00/FragTrap.cpp.o
+
+.PHONY : d03/ex00/FragTrap.o
+
+# target to build an object file
+d03/ex00/FragTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o
+.PHONY : d03/ex00/FragTrap.cpp.o
+
+d03/ex00/FragTrap.i: d03/ex00/FragTrap.cpp.i
+
+.PHONY : d03/ex00/FragTrap.i
+
+# target to preprocess a source file
+d03/ex00/FragTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.i
+.PHONY : d03/ex00/FragTrap.cpp.i
+
+d03/ex00/FragTrap.s: d03/ex00/FragTrap.cpp.s
+
+.PHONY : d03/ex00/FragTrap.s
+
+# target to generate assembly for a file
+d03/ex00/FragTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.s
+.PHONY : d03/ex00/FragTrap.cpp.s
+
+d03/ex00/main.o: d03/ex00/main.cpp.o
+
+.PHONY : d03/ex00/main.o
+
+# target to build an object file
+d03/ex00/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/main.cpp.o
+.PHONY : d03/ex00/main.cpp.o
+
+d03/ex00/main.i: d03/ex00/main.cpp.i
+
+.PHONY : d03/ex00/main.i
+
+# target to preprocess a source file
+d03/ex00/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/main.cpp.i
+.PHONY : d03/ex00/main.cpp.i
+
+d03/ex00/main.s: d03/ex00/main.cpp.s
+
+.PHONY : d03/ex00/main.s
+
+# target to generate assembly for a file
+d03/ex00/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/main.cpp.s
+.PHONY : d03/ex00/main.cpp.s
 
 # Help Target
 help:
@@ -903,15 +930,18 @@ help:
 	@echo "... d02/ex00/Fixed.class.o"
 	@echo "... d02/ex00/Fixed.class.i"
 	@echo "... d02/ex00/Fixed.class.s"
-	@echo "... d02/ex00/main.o"
-	@echo "... d02/ex00/main.i"
-	@echo "... d02/ex00/main.s"
 	@echo "... d02/ex01/Fixed.class.o"
 	@echo "... d02/ex01/Fixed.class.i"
 	@echo "... d02/ex01/Fixed.class.s"
-	@echo "... d02/ex01/main.o"
-	@echo "... d02/ex01/main.i"
-	@echo "... d02/ex01/main.s"
+	@echo "... d02/ex02/Fixed.class.o"
+	@echo "... d02/ex02/Fixed.class.i"
+	@echo "... d02/ex02/Fixed.class.s"
+	@echo "... d03/ex00/FragTrap.o"
+	@echo "... d03/ex00/FragTrap.i"
+	@echo "... d03/ex00/FragTrap.s"
+	@echo "... d03/ex00/main.o"
+	@echo "... d03/ex00/main.i"
+	@echo "... d03/ex00/main.s"
 .PHONY : help
 
 
