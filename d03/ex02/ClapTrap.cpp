@@ -106,7 +106,7 @@ void ClapTrap::takeDamage(unsigned int amount) {
 
 void ClapTrap::beRepaired(unsigned int amount) {
 
-	if (amount + _hitpoints >= 100)
+	if (amount + get_hitpoints() >= 100)
 		set_hitpoints(get_maxhitp());
 	else
 		set_hitpoints(amount + _hitpoints);

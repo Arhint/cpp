@@ -59,7 +59,7 @@ void FragTrap::vaulthunter_dot_exe(std::string const &target) {
 
 	int ind = rand() % 6;
 	std::string names[] = {"Cr1t", "Epic", "Fatal", "Unreal", "Slow", "Fast"};
-	if (_energyhitp >= 25)
+	if (get_energyhitp() >= 25)
 	{
 		std::cout << _name << " has done " << names[ind] << " attack to "
 				  << target << std::endl;
