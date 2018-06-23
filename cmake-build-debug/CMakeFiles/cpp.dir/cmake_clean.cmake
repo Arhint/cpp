@@ -26,6 +26,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o"
   "CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o"
   "CMakeFiles/cpp.dir/d03/ex00/main.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex01/main.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex02/main.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o"
+  "CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o"
   "cpp.pdb"
   "cpp"
 )

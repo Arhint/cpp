@@ -206,6 +206,42 @@
 		<Unit filename="/Users/ssavchen/cpp/d03/ex00/main.cpp">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex01/FragTrap.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex01/FragTrap.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex01/ScavTrap.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex01/ScavTrap.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex01/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/ClapTrap.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/ClapTrap.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/FragTrap.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/FragTrap.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/ScavTrap.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/ScavTrap.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d03/ex02/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="/Users/ssavchen/cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

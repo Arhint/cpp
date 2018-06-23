@@ -705,6 +705,174 @@ CMakeFiles/cpp.dir/d03/ex00/main.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex00/mai
 CMakeFiles/cpp.dir/d03/ex00/main.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex00/main.cpp.o
 
 
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o: ../d03/ex01/FragTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o -c /Users/ssavchen/cpp/d03/ex01/FragTrap.cpp
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex01/FragTrap.cpp > CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex01/FragTrap.cpp -o CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o: ../d03/ex01/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/cpp.dir/d03/ex01/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex01/main.cpp.o -c /Users/ssavchen/cpp/d03/ex01/main.cpp
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex01/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex01/main.cpp > CMakeFiles/cpp.dir/d03/ex01/main.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex01/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex01/main.cpp -o CMakeFiles/cpp.dir/d03/ex01/main.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex01/main.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o: ../d03/ex01/ScavTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o -c /Users/ssavchen/cpp/d03/ex01/ScavTrap.cpp
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex01/ScavTrap.cpp > CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex01/ScavTrap.cpp -o CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o: ../d03/ex02/FragTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o -c /Users/ssavchen/cpp/d03/ex02/FragTrap.cpp
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex02/FragTrap.cpp > CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex02/FragTrap.cpp -o CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: ../d03/ex02/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/cpp.dir/d03/ex02/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex02/main.cpp.o -c /Users/ssavchen/cpp/d03/ex02/main.cpp
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex02/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex02/main.cpp > CMakeFiles/cpp.dir/d03/ex02/main.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex02/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex02/main.cpp -o CMakeFiles/cpp.dir/d03/ex02/main.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex02/main.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o: ../d03/ex02/ScavTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o -c /Users/ssavchen/cpp/d03/ex02/ScavTrap.cpp
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex02/ScavTrap.cpp > CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex02/ScavTrap.cpp -o CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o
+
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o: CMakeFiles/cpp.dir/flags.make
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o: ../d03/ex02/ClapTrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o -c /Users/ssavchen/cpp/d03/ex02/ClapTrap.cpp
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/ssavchen/cpp/d03/ex02/ClapTrap.cpp > CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.i
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/ssavchen/cpp/d03/ex02/ClapTrap.cpp -o CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.s
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.requires
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.provides: CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.provides.build
+.PHONY : CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.provides
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.provides.build: CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o
+
+
 # Object files for target cpp
 cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/d00/ex00/megaphone.cpp.o" \
@@ -733,7 +901,14 @@ cpp_OBJECTS = \
 "CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o" \
 "CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o" \
 "CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o" \
-"CMakeFiles/cpp.dir/d03/ex00/main.cpp.o"
+"CMakeFiles/cpp.dir/d03/ex00/main.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex01/main.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex02/main.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o" \
+"CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o"
 
 # External object files for target cpp
 cpp_EXTERNAL_OBJECTS =
@@ -765,9 +940,16 @@ cpp: CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o
 cpp: CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o
 cpp: CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o
 cpp: CMakeFiles/cpp.dir/d03/ex00/main.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex01/main.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex02/main.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o
+cpp: CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o
 cpp: CMakeFiles/cpp.dir/build.make
 cpp: CMakeFiles/cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -802,6 +984,13 @@ CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o.requi
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o.requires
 CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex00/main.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex01/main.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex02/main.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o.requires
+CMakeFiles/cpp.dir/requires: CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o.requires
 
 .PHONY : CMakeFiles/cpp.dir/requires
 

@@ -12,4 +12,6 @@ add_executable(cpp d00/ex00/megaphone.cpp d00/ex00/megaphone.cpp
         d01/ex06/Weapon.hpp d01/ex06/HumanA.cpp d01/ex06/HumanA.hpp d01/ex06/HumanB.cpp d01/ex06/HumanB.hpp d01/ex06/main.cpp
         d01/ex07/trust.cpp d02/ex00/Fixed.class.cpp d02/ex00/Fixed.class.hpp
         d02/ex01/Fixed.class.hpp d02/ex01/Fixed.class.cpp
-        d02/ex02/Fixed.class.hpp d02/ex02/Fixed.class.cpp d03/ex00/FragTrap.cpp d03/ex00/FragTrap.hpp d03/ex00/main.cpp)
+        d02/ex02/Fixed.class.hpp d02/ex02/Fixed.class.cpp d03/ex00/FragTrap.cpp d03/ex00/FragTrap.hpp d03/ex00/main.cpp
+        d03/ex01/FragTrap.cpp d03/ex01/FragTrap.hpp d03/ex01/main.cpp d03/ex01/ScavTrap.cpp d03/ex01/ScavTrap.hpp
+        d03/ex02/FragTrap.cpp d03/ex02/FragTrap.hpp d03/ex02/main.cpp d03/ex02/ScavTrap.cpp d03/ex02/ScavTrap.hpp d03/ex02/ClapTrap.cpp d03/ex02/ClapTrap.hpp)

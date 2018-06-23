@@ -852,6 +852,195 @@ d03/ex00/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex00/main.cpp.s
 .PHONY : d03/ex00/main.cpp.s
 
+d03/ex01/FragTrap.o: d03/ex01/FragTrap.cpp.o
+
+.PHONY : d03/ex01/FragTrap.o
+
+# target to build an object file
+d03/ex01/FragTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o
+.PHONY : d03/ex01/FragTrap.cpp.o
+
+d03/ex01/FragTrap.i: d03/ex01/FragTrap.cpp.i
+
+.PHONY : d03/ex01/FragTrap.i
+
+# target to preprocess a source file
+d03/ex01/FragTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.i
+.PHONY : d03/ex01/FragTrap.cpp.i
+
+d03/ex01/FragTrap.s: d03/ex01/FragTrap.cpp.s
+
+.PHONY : d03/ex01/FragTrap.s
+
+# target to generate assembly for a file
+d03/ex01/FragTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.s
+.PHONY : d03/ex01/FragTrap.cpp.s
+
+d03/ex01/ScavTrap.o: d03/ex01/ScavTrap.cpp.o
+
+.PHONY : d03/ex01/ScavTrap.o
+
+# target to build an object file
+d03/ex01/ScavTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o
+.PHONY : d03/ex01/ScavTrap.cpp.o
+
+d03/ex01/ScavTrap.i: d03/ex01/ScavTrap.cpp.i
+
+.PHONY : d03/ex01/ScavTrap.i
+
+# target to preprocess a source file
+d03/ex01/ScavTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.i
+.PHONY : d03/ex01/ScavTrap.cpp.i
+
+d03/ex01/ScavTrap.s: d03/ex01/ScavTrap.cpp.s
+
+.PHONY : d03/ex01/ScavTrap.s
+
+# target to generate assembly for a file
+d03/ex01/ScavTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.s
+.PHONY : d03/ex01/ScavTrap.cpp.s
+
+d03/ex01/main.o: d03/ex01/main.cpp.o
+
+.PHONY : d03/ex01/main.o
+
+# target to build an object file
+d03/ex01/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/main.cpp.o
+.PHONY : d03/ex01/main.cpp.o
+
+d03/ex01/main.i: d03/ex01/main.cpp.i
+
+.PHONY : d03/ex01/main.i
+
+# target to preprocess a source file
+d03/ex01/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/main.cpp.i
+.PHONY : d03/ex01/main.cpp.i
+
+d03/ex01/main.s: d03/ex01/main.cpp.s
+
+.PHONY : d03/ex01/main.s
+
+# target to generate assembly for a file
+d03/ex01/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex01/main.cpp.s
+.PHONY : d03/ex01/main.cpp.s
+
+d03/ex02/ClapTrap.o: d03/ex02/ClapTrap.cpp.o
+
+.PHONY : d03/ex02/ClapTrap.o
+
+# target to build an object file
+d03/ex02/ClapTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o
+.PHONY : d03/ex02/ClapTrap.cpp.o
+
+d03/ex02/ClapTrap.i: d03/ex02/ClapTrap.cpp.i
+
+.PHONY : d03/ex02/ClapTrap.i
+
+# target to preprocess a source file
+d03/ex02/ClapTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.i
+.PHONY : d03/ex02/ClapTrap.cpp.i
+
+d03/ex02/ClapTrap.s: d03/ex02/ClapTrap.cpp.s
+
+.PHONY : d03/ex02/ClapTrap.s
+
+# target to generate assembly for a file
+d03/ex02/ClapTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.s
+.PHONY : d03/ex02/ClapTrap.cpp.s
+
+d03/ex02/FragTrap.o: d03/ex02/FragTrap.cpp.o
+
+.PHONY : d03/ex02/FragTrap.o
+
+# target to build an object file
+d03/ex02/FragTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o
+.PHONY : d03/ex02/FragTrap.cpp.o
+
+d03/ex02/FragTrap.i: d03/ex02/FragTrap.cpp.i
+
+.PHONY : d03/ex02/FragTrap.i
+
+# target to preprocess a source file
+d03/ex02/FragTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.i
+.PHONY : d03/ex02/FragTrap.cpp.i
+
+d03/ex02/FragTrap.s: d03/ex02/FragTrap.cpp.s
+
+.PHONY : d03/ex02/FragTrap.s
+
+# target to generate assembly for a file
+d03/ex02/FragTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.s
+.PHONY : d03/ex02/FragTrap.cpp.s
+
+d03/ex02/ScavTrap.o: d03/ex02/ScavTrap.cpp.o
+
+.PHONY : d03/ex02/ScavTrap.o
+
+# target to build an object file
+d03/ex02/ScavTrap.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o
+.PHONY : d03/ex02/ScavTrap.cpp.o
+
+d03/ex02/ScavTrap.i: d03/ex02/ScavTrap.cpp.i
+
+.PHONY : d03/ex02/ScavTrap.i
+
+# target to preprocess a source file
+d03/ex02/ScavTrap.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.i
+.PHONY : d03/ex02/ScavTrap.cpp.i
+
+d03/ex02/ScavTrap.s: d03/ex02/ScavTrap.cpp.s
+
+.PHONY : d03/ex02/ScavTrap.s
+
+# target to generate assembly for a file
+d03/ex02/ScavTrap.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.s
+.PHONY : d03/ex02/ScavTrap.cpp.s
+
+d03/ex02/main.o: d03/ex02/main.cpp.o
+
+.PHONY : d03/ex02/main.o
+
+# target to build an object file
+d03/ex02/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/main.cpp.o
+.PHONY : d03/ex02/main.cpp.o
+
+d03/ex02/main.i: d03/ex02/main.cpp.i
+
+.PHONY : d03/ex02/main.i
+
+# target to preprocess a source file
+d03/ex02/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/main.cpp.i
+.PHONY : d03/ex02/main.cpp.i
+
+d03/ex02/main.s: d03/ex02/main.cpp.s
+
+.PHONY : d03/ex02/main.s
+
+# target to generate assembly for a file
+d03/ex02/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/main.cpp.s
+.PHONY : d03/ex02/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -942,6 +1131,27 @@ help:
 	@echo "... d03/ex00/main.o"
 	@echo "... d03/ex00/main.i"
 	@echo "... d03/ex00/main.s"
+	@echo "... d03/ex01/FragTrap.o"
+	@echo "... d03/ex01/FragTrap.i"
+	@echo "... d03/ex01/FragTrap.s"
+	@echo "... d03/ex01/ScavTrap.o"
+	@echo "... d03/ex01/ScavTrap.i"
+	@echo "... d03/ex01/ScavTrap.s"
+	@echo "... d03/ex01/main.o"
+	@echo "... d03/ex01/main.i"
+	@echo "... d03/ex01/main.s"
+	@echo "... d03/ex02/ClapTrap.o"
+	@echo "... d03/ex02/ClapTrap.i"
+	@echo "... d03/ex02/ClapTrap.s"
+	@echo "... d03/ex02/FragTrap.o"
+	@echo "... d03/ex02/FragTrap.i"
+	@echo "... d03/ex02/FragTrap.s"
+	@echo "... d03/ex02/ScavTrap.o"
+	@echo "... d03/ex02/ScavTrap.i"
+	@echo "... d03/ex02/ScavTrap.s"
+	@echo "... d03/ex02/main.o"
+	@echo "... d03/ex02/main.i"
+	@echo "... d03/ex02/main.s"
 .PHONY : help
 
 

@@ -158,3 +158,25 @@ const Fixed& Fixed::max(Fixed const &lhs, Fixed const &rhs) {
 		return lhs;
 	return rhs;
 }
+
+void Map::init_map() {
+
+	WINDOW *map;
+
+	initscr();
+	noecho();
+	keypad(stdscr, TRUE);
+	set_heigh(getmaxy(stdscr));
+	set_width(getmaxx(stdscr));
+	map = newwin(_height, _width, 0, 0);
+	refresh();
+	while (1) {
+		box(map, 0, 0);
+		getmaxy(map);
+		wrefresh(map);
+	 	if (getch() == 'a')
+			break ;
+	}
+	wrefresh(map);
+	endwin();
+}
