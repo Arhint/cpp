@@ -13,6 +13,8 @@ public:
 	int								getX( void ) const;
 	int								getY( void ) const;
 	char *							getChar( void ) const;
+	void							move( void );
+	void							blow( void );
 
 private:
 	Bullet( Bullet const & src );

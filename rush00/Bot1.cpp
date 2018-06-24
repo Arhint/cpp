@@ -2,10 +2,8 @@
 
 Bot1::Bot1( void ) : Enemy()
 {
-	_x = 118;
-	srand(clock());
-	_y = rand() % 28 + 1;
-	_char = (char*)"o";
+	_x = -1;
+	_y = -1;
 }
 
 Bot1::Bot1( Bot1 const & src )
@@ -35,4 +33,14 @@ void						Bot1::changeTheCoords( void )
 		_y = rand() % 28 + 1;
 	}
 	this->_x--;
+}
+
+void						Bot1::spawn( void )
+
+{
+	_x = 118;
+	srand(clock());
+	_y = rand() % 28 + 1;
+	// _y = 5;
+	_char = (char*)"o";
 }

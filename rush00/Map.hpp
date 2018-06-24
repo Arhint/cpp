@@ -9,8 +9,12 @@ private:
 
 	int			_height;
 	int			_width;
+	int			_mheight;
+	int			_mwidth;
+	int			_pause;
+	int			_score;
+	WINDOW		*_menu;
 	WINDOW		*_map;
-//	WINDOW		*_menu;
 
 public:
 
@@ -19,11 +23,15 @@ public:
 	Map &operator=( Map const & rhs );
 	~Map();
 
+	int				get_pause();
 	int				get_height();
 	int				get_width();
+	int				get_score();
 	WINDOW*			get_map();
+	WINDOW*			get_menu();
 
-
+	void	set_score(int k);
+	void	set_pause(int k);
 	void	set_height(int k);
 	void	set_width(int k);
 

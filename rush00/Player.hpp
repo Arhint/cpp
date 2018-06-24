@@ -19,6 +19,8 @@ public:
 
 	int				get_x();
 	int				get_y();
+	int				get_life();
+	void			set_life(int k);
 	void			set_x(int k);
 	void			set_y(int k);
 

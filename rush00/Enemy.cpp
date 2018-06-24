@@ -50,12 +50,22 @@ void						Enemy::setY( int const y )
 	this->_y = y;
 }
 
-void						Enemy::kill( int const i )
+int							Enemy::kill( void )
 {
 	if (--_health == 0) {
 		_x = 118;
 		srand(clock());
 		_y = rand() % 28 + 1;
 		this->_health = this->_defaultHealth;
+		return (this->_defaultHealth);
 	}
+	return (0);
+}
+
+void						Enemy::kill( int )
+{
+		_x = 118;
+		srand(clock());
+		_y = rand() % 28 + 1;
+		this->_health = this->_defaultHealth;
 }

@@ -5,10 +5,8 @@ Bot3::Bot3( void ) : Enemy()
 {
 	this->_health = 5;
 	this->_defaultHealth = 5;
-	_x = 118;
-	srand(clock());
-	_y = rand() % 28 + 1;
-	_char = (char*)"#";
+	_x = -1;
+	_y = -1;
 }
 
 Bot3::Bot3( Bot3 const & src )
@@ -58,4 +56,12 @@ void						Bot3::changeTheCoords( void )
 	else if (this->_x < 118 && this->_x <= 1) {
 		this->_x += j[rand() % 3];
 	}
+}
+
+void						Bot3::spawn( void )
+{
+	_x = 118;
+	srand(clock());
+	_y = rand() % 28 + 1;
+	_char = (char*)"#";
 }

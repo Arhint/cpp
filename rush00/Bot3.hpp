@@ -13,6 +13,7 @@ public:
 	
 	Bot3 &						operator=( Bot3 const & rhs );
 	void						changeTheCoords( void );
+	void						spawn( void );
 
 };
 

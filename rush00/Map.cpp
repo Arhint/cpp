@@ -4,6 +4,10 @@ Map::Map() {
 
 	_height = 30;
 	_width = 120;
+	_mheight = 30;
+	_mwidth = 40;
+	_pause = 2;
+	_score = 0;
 }
 
 Map::Map(const Map &rhs) {
@@ -28,9 +32,29 @@ int Map::get_width() {
 	return _width;
 }
 
+int Map::get_score() {
+
+	return _score;
+}
+
+int Map::get_pause() {
+
+	return _pause;
+}
+
 WINDOW* Map::get_map() {
 
 	return _map;
+}
+
+WINDOW* Map::get_menu() {
+
+	return _menu;
+}
+
+void Map::set_score(int k) {
+
+	_score += k * 10;
 }
 
 void Map::set_height(int k) {
@@ -43,21 +67,20 @@ void Map::set_width(int k) {
 	_width = k;
 }
 
+void Map::set_pause(int k) {
+
+	_pause = k;
+}
+
 Map::~Map() {}
 
 void Map::rs_set_color() {
 
-	init_pair(1, COLOR_GREEN, COLOR_BLACK);
-	init_pair(2, COLOR_BLUE, COLOR_BLACK);
-	init_pair(3, COLOR_RED, COLOR_BLACK);
-//	init_pair(4, COLOR_CYAN, COLOR_BLACK);
-//	init_pair(5, COLOR_WHITE, COLOR_BLACK);
-//	init_pair(6, COLOR_BLACK, COLOR_GREEN);
-//	init_pair(7, COLOR_BLACK, COLOR_BLUE);
-//	init_pair(8, COLOR_BLACK, COLOR_RED);
-//	init_pair(9, COLOR_BLACK, COLOR_CYAN);
-//	init_pair(10, COLOR_WHITE, COLOR_WHITE);
-//	init_pair(11, COLOR_RED, COLOR_BLACK);
+	init_pair(1, COLOR_WHITE, COLOR_BLACK);		//player
+	init_pair(2, COLOR_WHITE, COLOR_BLACK);		// menu
+	init_pair(3, COLOR_YELLOW, COLOR_BLACK);	//bots
+	init_pair(4, COLOR_BLUE, COLOR_BLACK);	//bots
+	init_pair(5, COLOR_RED, COLOR_BLACK); 		//bots
 }
 
 void Map::init_map() {
@@ -69,7 +92,7 @@ void Map::init_map() {
 	rs_set_color();
 	cbreak();
 	keypad(stdscr, TRUE);
-	nodelay(stdscr, FALSE);
-//	timeout(1);
 	_map = newwin(_height, _width, 0, 0);
+	_menu = newwin(_mheight, _mwidth, 0, 121);
+	refresh();
 }

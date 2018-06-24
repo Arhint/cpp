@@ -5,10 +5,8 @@ Bot2::Bot2( void ) : Enemy()
 {
 	this->_health = 3;
 	this->_defaultHealth = 3;
-	_x = 118;
-	srand(clock());
-	_y = rand() % 28 + 1;
-	_char = (char*)"x";
+	_x = -1;
+	_y = -1;
 }
 
 Bot2::Bot2( Bot2 const & src )
@@ -49,4 +47,12 @@ void						Bot2::changeTheCoords( void )
 		this->_y += i[rand() % 2];
 	}
 	this->_x--;
+}
+
+void						Bot2::spawn( void )
+{
+	_x = 118;
+	srand(clock());
+	_y = rand() % 28 + 1;
+	_char = (char*)"x";
 }

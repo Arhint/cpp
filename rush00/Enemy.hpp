@@ -19,7 +19,8 @@ public:
 	void						setY( int const y );
 //	void						setVisible( int const i );
 //	int							getVisible( void ) const;
-	void						kill( int const i );
+	int							kill( void );
+	void						kill( int );
 	virtual void				changeTheCoords( void ) = 0;
 
 protected:

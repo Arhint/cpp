@@ -31,6 +31,11 @@ int Player::get_y() {
 	return _y;
 }
 
+int Player::get_life() {
+
+	return _life;
+}
+
 void Player::set_x(int k) {
 
 	_x = k;
@@ -39,4 +44,9 @@ void Player::set_x(int k) {
 void Player::set_y(int k) {
 
 	_y = k;
+}
+
+void Player::set_life(int k) {
+
+	_life = k;
 }

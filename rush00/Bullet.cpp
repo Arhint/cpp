@@ -6,6 +6,7 @@ Bullet::Bullet( void ) : _char((char*)"-"), _x(-1), _y(-1)
 
 Bullet::Bullet( Bullet const & src )
 {
+	*this = src;
 }
 
 Bullet::~Bullet( void )
@@ -35,4 +36,20 @@ int							Bullet::getY( void ) const
 char *						Bullet::getChar( void ) const
 {
 	return (this->_char);
+}
+
+void						Bullet::move( void )
+{
+	if (this->_x == 118)
+		Bullet::blow();
+	else
+	{
+		this->_x++;		
+	}
+}
+
+void						Bullet::blow( void )
+{
+	this->_x = -1;
+	this->_y = -1;
 }
