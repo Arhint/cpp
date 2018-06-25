@@ -6,6 +6,7 @@
 class ClapTrap {
 
 public:
+	~ClapTrap();
 
 	unsigned int	get_hitpoints();
 	unsigned int	get_maxhitp();
@@ -22,7 +23,7 @@ public:
 	void		set_energyhitp(unsigned int k);
 	void		set_maxenergyhitp();
 
-	void		rangedAttack(std::string const & target);
+	virtual void		rangedAttack(std::string const & target);
 	void		meleeAttack(std::string const & target);
 	void		takeDamage(unsigned int amount);
 	void		beRepaired(unsigned int amount);

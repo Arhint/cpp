@@ -15,6 +15,7 @@ public:
 	~FragTrap();
 
 	void		vaulthunter_dot_exe(std::string const & target);
+	void		rangedAttack(std::string const & target);
 
 };
 

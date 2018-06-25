@@ -68,3 +68,8 @@ void FragTrap::vaulthunter_dot_exe(std::string const &target) {
 	else
 		std::cout << "NOT ENOUGH ENERGY !" << std::endl;
 }
+
+void FragTrap::rangedAttack(std::string const &target)
+{
+	std::cout << target << " fragTrap\n";
+}

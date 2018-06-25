@@ -65,3 +65,8 @@ void ScavTrap::challengeNewcomer(std::string const & target) {
 	std::cout << _name << " lets go fight with " << target
 			  << " by " << names[ind] << std::endl;
 }
+
+void ScavTrap::rangedAttack(std::string const &target)
+{
+	std::cout << target << " ScavTrap\n";
+}

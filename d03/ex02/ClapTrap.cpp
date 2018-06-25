@@ -113,3 +113,7 @@ void ClapTrap::beRepaired(unsigned int amount) {
 	std::cout << _name << " repaired by: " << amount << " to "
 			  << _hitpoints << std::endl;
 }
+
+ClapTrap::~ClapTrap() {
+	std::cout << "CLapTrap\n";
+}

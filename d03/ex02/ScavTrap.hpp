@@ -15,6 +15,7 @@ public:
 	~ScavTrap();
 
 	void		challengeNewcomer(std::string const & target);
+	void		rangedAttack(std::string const & target);
 };
 
 #endif
