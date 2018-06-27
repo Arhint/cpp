@@ -242,6 +242,27 @@
 		<Unit filename="/Users/ssavchen/cpp/d03/ex02/main.cpp">
 			<Option target="cpp"/>
 		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d05/ex00/Bureaucrat.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d05/ex00/Bureaucrat.hpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d05/ex00/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d06/ex01/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d06/main.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d07/ex00/whatever.cpp">
+			<Option target="cpp"/>
+		</Unit>
+		<Unit filename="/Users/ssavchen/cpp/d07/ex01/iter.cpp">
+			<Option target="cpp"/>
+		</Unit>
 		<Unit filename="/Users/ssavchen/cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

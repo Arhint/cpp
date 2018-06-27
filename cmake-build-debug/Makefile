@@ -1041,6 +1041,168 @@ d03/ex02/main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d03/ex02/main.cpp.s
 .PHONY : d03/ex02/main.cpp.s
 
+d05/ex00/Bureaucrat.o: d05/ex00/Bureaucrat.cpp.o
+
+.PHONY : d05/ex00/Bureaucrat.o
+
+# target to build an object file
+d05/ex00/Bureaucrat.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.o
+.PHONY : d05/ex00/Bureaucrat.cpp.o
+
+d05/ex00/Bureaucrat.i: d05/ex00/Bureaucrat.cpp.i
+
+.PHONY : d05/ex00/Bureaucrat.i
+
+# target to preprocess a source file
+d05/ex00/Bureaucrat.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.i
+.PHONY : d05/ex00/Bureaucrat.cpp.i
+
+d05/ex00/Bureaucrat.s: d05/ex00/Bureaucrat.cpp.s
+
+.PHONY : d05/ex00/Bureaucrat.s
+
+# target to generate assembly for a file
+d05/ex00/Bureaucrat.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.s
+.PHONY : d05/ex00/Bureaucrat.cpp.s
+
+d05/ex00/main.o: d05/ex00/main.cpp.o
+
+.PHONY : d05/ex00/main.o
+
+# target to build an object file
+d05/ex00/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/main.cpp.o
+.PHONY : d05/ex00/main.cpp.o
+
+d05/ex00/main.i: d05/ex00/main.cpp.i
+
+.PHONY : d05/ex00/main.i
+
+# target to preprocess a source file
+d05/ex00/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/main.cpp.i
+.PHONY : d05/ex00/main.cpp.i
+
+d05/ex00/main.s: d05/ex00/main.cpp.s
+
+.PHONY : d05/ex00/main.s
+
+# target to generate assembly for a file
+d05/ex00/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d05/ex00/main.cpp.s
+.PHONY : d05/ex00/main.cpp.s
+
+d06/ex01/main.o: d06/ex01/main.cpp.o
+
+.PHONY : d06/ex01/main.o
+
+# target to build an object file
+d06/ex01/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/ex01/main.cpp.o
+.PHONY : d06/ex01/main.cpp.o
+
+d06/ex01/main.i: d06/ex01/main.cpp.i
+
+.PHONY : d06/ex01/main.i
+
+# target to preprocess a source file
+d06/ex01/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/ex01/main.cpp.i
+.PHONY : d06/ex01/main.cpp.i
+
+d06/ex01/main.s: d06/ex01/main.cpp.s
+
+.PHONY : d06/ex01/main.s
+
+# target to generate assembly for a file
+d06/ex01/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/ex01/main.cpp.s
+.PHONY : d06/ex01/main.cpp.s
+
+d06/main.o: d06/main.cpp.o
+
+.PHONY : d06/main.o
+
+# target to build an object file
+d06/main.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/main.cpp.o
+.PHONY : d06/main.cpp.o
+
+d06/main.i: d06/main.cpp.i
+
+.PHONY : d06/main.i
+
+# target to preprocess a source file
+d06/main.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/main.cpp.i
+.PHONY : d06/main.cpp.i
+
+d06/main.s: d06/main.cpp.s
+
+.PHONY : d06/main.s
+
+# target to generate assembly for a file
+d06/main.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d06/main.cpp.s
+.PHONY : d06/main.cpp.s
+
+d07/ex00/whatever.o: d07/ex00/whatever.cpp.o
+
+.PHONY : d07/ex00/whatever.o
+
+# target to build an object file
+d07/ex00/whatever.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex00/whatever.cpp.o
+.PHONY : d07/ex00/whatever.cpp.o
+
+d07/ex00/whatever.i: d07/ex00/whatever.cpp.i
+
+.PHONY : d07/ex00/whatever.i
+
+# target to preprocess a source file
+d07/ex00/whatever.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex00/whatever.cpp.i
+.PHONY : d07/ex00/whatever.cpp.i
+
+d07/ex00/whatever.s: d07/ex00/whatever.cpp.s
+
+.PHONY : d07/ex00/whatever.s
+
+# target to generate assembly for a file
+d07/ex00/whatever.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex00/whatever.cpp.s
+.PHONY : d07/ex00/whatever.cpp.s
+
+d07/ex01/iter.o: d07/ex01/iter.cpp.o
+
+.PHONY : d07/ex01/iter.o
+
+# target to build an object file
+d07/ex01/iter.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex01/iter.cpp.o
+.PHONY : d07/ex01/iter.cpp.o
+
+d07/ex01/iter.i: d07/ex01/iter.cpp.i
+
+.PHONY : d07/ex01/iter.i
+
+# target to preprocess a source file
+d07/ex01/iter.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex01/iter.cpp.i
+.PHONY : d07/ex01/iter.cpp.i
+
+d07/ex01/iter.s: d07/ex01/iter.cpp.s
+
+.PHONY : d07/ex01/iter.s
+
+# target to generate assembly for a file
+d07/ex01/iter.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp.dir/build.make CMakeFiles/cpp.dir/d07/ex01/iter.cpp.s
+.PHONY : d07/ex01/iter.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1152,6 +1314,24 @@ help:
 	@echo "... d03/ex02/main.o"
 	@echo "... d03/ex02/main.i"
 	@echo "... d03/ex02/main.s"
+	@echo "... d05/ex00/Bureaucrat.o"
+	@echo "... d05/ex00/Bureaucrat.i"
+	@echo "... d05/ex00/Bureaucrat.s"
+	@echo "... d05/ex00/main.o"
+	@echo "... d05/ex00/main.i"
+	@echo "... d05/ex00/main.s"
+	@echo "... d06/ex01/main.o"
+	@echo "... d06/ex01/main.i"
+	@echo "... d06/ex01/main.s"
+	@echo "... d06/main.o"
+	@echo "... d06/main.i"
+	@echo "... d06/main.s"
+	@echo "... d07/ex00/whatever.o"
+	@echo "... d07/ex00/whatever.i"
+	@echo "... d07/ex00/whatever.s"
+	@echo "... d07/ex01/iter.o"
+	@echo "... d07/ex01/iter.i"
+	@echo "... d07/ex01/iter.s"
 .PHONY : help
 
 

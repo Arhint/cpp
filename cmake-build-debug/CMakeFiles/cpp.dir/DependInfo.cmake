@@ -38,6 +38,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ssavchen/cpp/d03/ex02/FragTrap.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o"
   "/Users/ssavchen/cpp/d03/ex02/ScavTrap.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o"
   "/Users/ssavchen/cpp/d03/ex02/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d03/ex02/main.cpp.o"
+  "/Users/ssavchen/cpp/d05/ex00/Bureaucrat.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.o"
+  "/Users/ssavchen/cpp/d05/ex00/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d05/ex00/main.cpp.o"
+  "/Users/ssavchen/cpp/d06/ex01/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d06/ex01/main.cpp.o"
+  "/Users/ssavchen/cpp/d06/main.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d06/main.cpp.o"
+  "/Users/ssavchen/cpp/d07/ex00/whatever.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d07/ex00/whatever.cpp.o"
+  "/Users/ssavchen/cpp/d07/ex01/iter.cpp" "/Users/ssavchen/cpp/cmake-build-debug/CMakeFiles/cpp.dir/d07/ex01/iter.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

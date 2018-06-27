@@ -46,8 +46,6 @@ void	to_char(char *s)
 			std::cout << "char: Non displayable" << std::endl;
 		else
 			std::cout << "char: impossible" << std::endl;
-
-
 	}
 	catch (std::exception &e) {
 

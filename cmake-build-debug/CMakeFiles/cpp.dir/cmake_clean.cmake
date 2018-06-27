@@ -33,6 +33,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp.dir/d03/ex02/main.cpp.o"
   "CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o"
   "CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o"
+  "CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.o"
+  "CMakeFiles/cpp.dir/d05/ex00/main.cpp.o"
+  "CMakeFiles/cpp.dir/d06/main.cpp.o"
+  "CMakeFiles/cpp.dir/d06/ex01/main.cpp.o"
+  "CMakeFiles/cpp.dir/d07/ex00/whatever.cpp.o"
+  "CMakeFiles/cpp.dir/d07/ex01/iter.cpp.o"
   "cpp.pdb"
   "cpp"
 )

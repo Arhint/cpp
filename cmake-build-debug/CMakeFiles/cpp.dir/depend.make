@@ -76,18 +76,49 @@ CMakeFiles/cpp.dir/d01/ex07/trust.cpp.o: ../d01/ex07/trust.cpp
 CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: ../d02/ex00/Fixed.class.cpp
 CMakeFiles/cpp.dir/d02/ex00/Fixed.class.cpp.o: ../d02/ex00/Fixed.class.hpp
 
-CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: ../d02/ex00/Fixed.class.hpp
-CMakeFiles/cpp.dir/d02/ex00/main.cpp.o: ../d02/ex00/main.cpp
-
 CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o: ../d02/ex01/Fixed.class.cpp
 CMakeFiles/cpp.dir/d02/ex01/Fixed.class.cpp.o: ../d02/ex01/Fixed.class.hpp
-
-CMakeFiles/cpp.dir/d02/ex01/main.cpp.o: ../d02/ex01/Fixed.class.hpp
-CMakeFiles/cpp.dir/d02/ex01/main.cpp.o: ../d02/ex01/main.cpp
 
 CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o: ../d02/ex02/Fixed.class.cpp
 CMakeFiles/cpp.dir/d02/ex02/Fixed.class.cpp.o: ../d02/ex02/Fixed.class.hpp
 
-CMakeFiles/cpp.dir/d02/ex02/main.cpp.o: ../d02/ex02/Fixed.class.hpp
-CMakeFiles/cpp.dir/d02/ex02/main.cpp.o: ../d02/ex02/main.cpp
+CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o: ../d03/ex00/FragTrap.cpp
+CMakeFiles/cpp.dir/d03/ex00/FragTrap.cpp.o: ../d03/ex00/FragTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex00/main.cpp.o: ../d03/ex00/FragTrap.hpp
+CMakeFiles/cpp.dir/d03/ex00/main.cpp.o: ../d03/ex00/main.cpp
+
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o: ../d03/ex01/FragTrap.cpp
+CMakeFiles/cpp.dir/d03/ex01/FragTrap.cpp.o: ../d03/ex01/FragTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o: ../d03/ex01/ScavTrap.cpp
+CMakeFiles/cpp.dir/d03/ex01/ScavTrap.cpp.o: ../d03/ex01/ScavTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o: ../d03/ex01/FragTrap.hpp
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o: ../d03/ex01/ScavTrap.hpp
+CMakeFiles/cpp.dir/d03/ex01/main.cpp.o: ../d03/ex01/main.cpp
+
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o: ../d03/ex02/ClapTrap.cpp
+CMakeFiles/cpp.dir/d03/ex02/ClapTrap.cpp.o: ../d03/ex02/ClapTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o: ../d03/ex02/ClapTrap.hpp
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o: ../d03/ex02/FragTrap.cpp
+CMakeFiles/cpp.dir/d03/ex02/FragTrap.cpp.o: ../d03/ex02/FragTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o: ../d03/ex02/ClapTrap.hpp
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o: ../d03/ex02/ScavTrap.cpp
+CMakeFiles/cpp.dir/d03/ex02/ScavTrap.cpp.o: ../d03/ex02/ScavTrap.hpp
+
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: ../d03/ex02/ClapTrap.hpp
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: ../d03/ex02/FragTrap.hpp
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: ../d03/ex02/ScavTrap.hpp
+CMakeFiles/cpp.dir/d03/ex02/main.cpp.o: ../d03/ex02/main.cpp
+
+CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.o: ../d05/ex00/Bureaucrat.cpp
+CMakeFiles/cpp.dir/d05/ex00/Bureaucrat.cpp.o: ../d05/ex00/Bureaucrat.hpp
+
+CMakeFiles/cpp.dir/d05/ex00/main.cpp.o: ../d05/ex00/Bureaucrat.hpp
+CMakeFiles/cpp.dir/d05/ex00/main.cpp.o: ../d05/ex00/main.cpp
+
+CMakeFiles/cpp.dir/d06/main.cpp.o: ../d06/main.cpp
 
